@@ -1,0 +1,220 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "nome": "Ficção"
+    },
+    {
+      "id": 2,
+      "nome": "Não Ficção"
+    },
+    {
+      "id": 3,
+      "nome": "História"
+    },
+    {
+      "nome": "Investigação",
+      "id": 4
+    },
+    {
+      "nome": "Romance",
+      "id": 5
+    },
+    {
+      "nome": "Aventura",
+      "id": 6
+    },
+    {
+      "nome": "Biografia",
+      "id": 7
+    },
+    {
+      "nome": "Didático",
+      "id": 8
+    },
+    {
+      "nome": "Quadrinhos",
+      "id": 9
+    },
+    {
+      "nome": "Mangá",
+      "id": 10
+    },
+    {
+      "nome": "Religioso",
+      "id": 11
+    },
+    {
+      "nome": "Bula",
+      "id": 12
+    },
+    {
+      "nome": "Receita",
+      "id": 13
+    }
+  ],
+  "livros": [
+    {
+      "id": 1,
+      "titulo": "Dom Quixote",
+      "autor": "Miguel de Cervantes",
+      "anoPublicacao": 1605,
+      "isbn": "978-85-359-0277-3",
+      "disponivel": true,
+      "categoriaId": 1
+    },
+    {
+      "id": 2,
+      "titulo": "Origens",
+      "autor": "Neil deGrasse Tyson",
+      "anoPublicacao": 2017,
+      "isbn": "978-85-359-0650-4",
+      "disponivel": true,
+      "categoriaId": 2
+    },
+    {
+      "id": 3,
+      "titulo": "Uma Breve História do Tempo",
+      "autor": "Stephen Hawking",
+      "anoPublicacao": 1988,
+      "isbn": "978-85-359-0278-0",
+      "disponivel": false,
+      "categoriaId": 2
+    },
+    {
+      "titulo": "Torá",
+      "autor": "Moisés",
+      "anoPublicacao": 1,
+      "isbn": "000000000000000",
+      "disponivel": false,
+      "categoriaId": 11,
+      "id": 4
+    },
+    {
+      "titulo": "Alcorão",
+      "autor": "Maomé",
+      "anoPublicacao": 610,
+      "isbn": "000000000000000",
+      "disponivel": false,
+      "categoriaId": 11,
+      "id": 5
+    },
+    {
+      "titulo": "Biblia",
+      "autor": "Vários autores",
+      "anoPublicacao": 400,
+      "isbn": "000000000000000",
+      "disponivel": false,
+      "categoriaId": 11,
+      "id": 6
+    },
+    {
+      "titulo": "Whitney, meu amor",
+      "autor": "Judith McNaught",
+      "anoPublicacao": 1985,
+      "isbn": "000000000000000",
+      "disponivel": false,
+      "categoriaId": 5,
+      "id": 7
+    },
+    {
+      "titulo": "a noviça de burgh ",
+      "autor": "Jdeborah simmons",
+      "anoPublicacao": 0,
+      "isbn": "000000000000000",
+      "disponivel": false,
+      "categoriaId": 5,
+      "id": 8
+    },
+    {
+      "titulo": "Como eu era antes de você ",
+      "autor": "Jojo Moyes",
+      "anoPublicacao": 2012,
+      "isbn": "000000000000000",
+      "disponivel": false,
+      "categoriaId": 5,
+      "id": 9
+    },
+    {
+      "titulo": "Depois de você ",
+      "autor": "Jojo Moyes",
+      "anoPublicacao": 2015,
+      "isbn": "000000000000000",
+      "disponivel": false,
+      "categoriaId": 5,
+      "id": 10
+    },
+    {
+      "titulo": "Ainda sou eu ",
+      "autor": "Jojo Moyes",
+      "anoPublicacao": 2018,
+      "isbn": "000000000000000",
+      "disponivel": false,
+      "categoriaId": 5,
+      "id": 11
+    },
+    {
+      "titulo": "A Garota Que Você Deixou Para Trás",
+      "autor": "Jojo Moyes",
+      "anoPublicacao": 2012,
+      "isbn": "000000000000000",
+      "disponivel": false,
+      "categoriaId": 5,
+      "id": 12
+    },
+    {
+      "titulo": "eu fui a melhor amiga de jane austen",
+      "autor": "Cora Harrison",
+      "anoPublicacao": 2010,
+      "isbn": "000000000000000",
+      "disponivel": false,
+      "categoriaId": 5,
+      "id": 13
+    },
+    {
+      "titulo": "o diario de anne frank",
+      "autor": "Anne Frank",
+      "anoPublicacao": 1947,
+      "isbn": "000000000000000",
+      "disponivel": false,
+      "categoriaId": 7,
+      "id": 14
+    },
+    {
+      "titulo": "Minha história, minha vida",
+      "autor": "Cristina mel",
+      "anoPublicacao": 2016,
+      "isbn": "000000000000000",
+      "disponivel": false,
+      "categoriaId": 7,
+      "id": 15
+    },
+    {
+      "titulo": "robin hood",
+      "autor": "Howard Pyle",
+      "anoPublicacao": 1883,
+      "isbn": "000000000000000",
+      "disponivel": false,
+      "categoriaId": 1,
+      "id": 16
+    },
+    {
+      "titulo": "Moderna Plus. Física - 1",
+      "autor": "Francisco Ramalho Júnior ",
+      "anoPublicacao": 2015,
+      "isbn": "000000000000000",
+      "disponivel": false,
+      "categoriaId": 8,
+      "id": 17
+    },
+    {
+      "titulo": "Conecte física - Volume 1",
+      "autor": "Ricardo Helou Doca, Gualter José Biscuola, Newton Vilas Boas",
+      "anoPublicacao": 2019,
+      "isbn": "000000000000000",
+      "disponivel": false,
+      "categoriaId": 8,
+      "id": 18
+    }
+  ]
+}
